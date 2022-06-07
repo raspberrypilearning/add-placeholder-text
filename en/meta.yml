@@ -1,0 +1,9 @@
+title: Add 'lorem ipsum' placeholder text
+hero_image: images/banner.png
+description: Adding nonsense placeholder text to test layout and styling options
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - title: Add 'lorem ipsum' placeholder text
