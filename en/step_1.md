@@ -1,4 +1,4 @@
-It is traditional to use nonsense Latin text as a placeholder on a web page so that you can see what a layout looks like.
+It is traditional to use nonsense Latin text as a placeholder on a webpage so that you can see what a layout looks like.
 
 --- code ---
 ---
