@@ -1,4 +1,4 @@
-It is traditional to use nonsense Latin text as a placeholder on a webpage so that you can see what a layout looks like.
+Het is gebruikelijk om een onzinnige Latijnse tekst te gebruiken als een tijdelijke aanduiding op een webpagina, zodat je kunt zien hoe een lay-out eruitziet.
 
 ## --- code ---
 
